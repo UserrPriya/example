@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    left: 30%;
+    
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    color: azure;
+    position: absolute;
+}
